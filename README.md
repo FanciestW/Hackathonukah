@@ -14,7 +14,7 @@ How To Use Arduino Program With MeU:
 <h3>2. Set up Bluetooth to connect with MeU Bluetooth name</h3>
 <h3>3. Set Arduino Program to the bluetooth module with Tools</h3>
 <h3>4. Click the Serial button in top right corner</h3>
-ENJOY!
+ENJOY!!!
 ======
 
 
